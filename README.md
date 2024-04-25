@@ -24,7 +24,7 @@ No entanto, é importante preencher todos os campos obrigatórios. Se algum camp
 [cadastro.html](/cadastro.html)<br>
 [senha.hmtl](/senha.html)
  # Autores
- * pessoas que me ajudou a criar o calendario 
+ * pessoas que me ajudou a criar a tela de login
 <https://github.com/mariayanagui><br>
 <https://github.com/LeonardoRochaMarista><br> 
 <https://github.com/queijitos><br> 
